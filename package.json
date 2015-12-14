@@ -1,0 +1,27 @@
+{
+  "name": "angular-timeliner",
+  "version": "1.0.0",
+  "description": "angular customizable timeline, events, play, pause, reve",
+  "main": "./dist/angular-timeliner.min.js",
+  "scripts": {
+    "test": "grunt travis --verbos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortezcristian/angular-timeliner.git"
+  },
+  "keywords": [
+    "angular",
+    "timeline",
+    "events",
+    "play",
+    "pause",
+    "revert"
+  ],
+  "author": "Cristian Cortez <cortez.cristian@gmail.com> (http://cortezcristian.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortezcristian/angular-timeliner/issues"
+  },
+  "homepage": "https://github.com/cortezcristian/angular-timeliner#readme"
+}
