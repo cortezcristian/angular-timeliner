@@ -1,0 +1,2 @@
+# timeliner
+Angular customizable timeline
